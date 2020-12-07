@@ -71,8 +71,8 @@ http://internetowa.tv/?c=hlsPlay&channel=fox&token=baf85c13c92d01784de8a6f26e84a
 http://internetowa.tv/?c=hlsPlay&channel=canalplusseriale&token=baf85c13c92d01784de8a6f26e84ae5bb857c6fc29823f7b9872ae95ebf42e7fbbb161b5df121c10af8c904e125ff301c14f67c407d7136e89604e547847cedb
 #EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/comedy-central.png" ,Comedy Central
 http://internetowa.tv/?c=hlsPlay&channel=comedycentral&token=baf85c13c92d01784de8a6f26e84ae5bb857c6fc29823f7b9872ae95ebf42e7fbbb161b5df121c10af8c904e125ff301c14f67c407d7136e89604e547847cedb
-#EXTINF:-1,PL: COMEDY CENTRAL FAMILY
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/47425
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central Extra Polsat FHD PL" tvg-logo="https://picon-13398.kxcdn.com/comedycentralextra.jpg" group-title="Live: Poland",Comedy Central Extra Polsat FHD PL
+http://tv.server.xdns.pro:80/live/Bierlic/FfS5Ot7841/22770.m3u8
 #EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/ci-polsat.png" ,Crime+Investigation Polsat
 http://internetowa.tv/?c=hlsPlay&channel=cipolsat&token=baf85c13c92d01784de8a6f26e84ae5bb857c6fc29823f7b9872ae95ebf42e7fbbb161b5df121c10af8c904e125ff301c14f67c407d7136e89604e547847cedb
 #EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/tvp-rozrywka.png" ,TVP Rozrywka
