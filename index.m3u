@@ -73,7 +73,7 @@ http://internetowa.tv/?c=hlsPlay&channel=fox&token=1b14ec7ce4ca1a298d9306ff04b7e
 http://internetowa.tv/?c=hlsPlay&channel=canalplusseriale&token=1b14ec7ce4ca1a298d9306ff04b7e3596fe33c8cf7ec21a0f7bd807f3239868604dca2c585c30020f59786a23495627e76ddbeab1681f3fa790c6be8d7e3e787
 #EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/comedy-central.png" ,Comedy Central
 http://internetowa.tv/?c=hlsPlay&channel=comedycentral&token=1b14ec7ce4ca1a298d9306ff04b7e3596fe33c8cf7ec21a0f7bd807f3239868604dca2c585c30020f59786a23495627e76ddbeab1681f3fa790c6be8d7e3e787
-#EXTINF:-1 tvg-id="comedy.central.family.pl" tvg-name="PL164:Comedy Central Family" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL164ComedyCentralFamily.png" group-title="Poland",PL164:Comedy Central Family
+#EXTINF:-1 tvg-id="comedy.central.family.pl" tvg-name="Comedy Central Family" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL164ComedyCentralFamily.png" group-title="Poland",Comedy Central Family
 http://ce2.coolmyvip.club:8880/wtest366/m3cutv@gmail.com/33368
 #EXTINF:-1,Polsat Games FHD PL
 http://mytv.fun:8080/rr9h8haai/ot9uoxvxf8/628998
