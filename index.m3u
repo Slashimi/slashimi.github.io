@@ -1,399 +1,399 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="chasse.et.peche.fr" tvg-name="FR031:Chasse et Pache" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR031ChasseetPache.png" group-title="FR Ent",FR031:Chasse et Pache
 http://ce2.coolmyvip.club:8880/wtest366/m3cutv@gmail.com/2835
-#EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="13 Ulica" tvg-logo="https://picon-13398.kxcdn.com/13ulicahd.jpg" group-title="Live: Poland",13 Ulica
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15100.m3u8
-#EXTINF:-1 tvg-id="Adventure.pl" tvg-name="Adventure" tvg-logo="https://picon-13398.kxcdn.com/adventurehd.jpg" group-title="Live: Poland",Adventure
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15205.m3u8
-#EXTINF:-1 tvg-id="AMC.pl" tvg-name="AMC Polska" tvg-logo="https://picon-13398.kxcdn.com/amc.jpg" group-title="Live: Poland",AMC Polska
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15218.m3u8
-#EXTINF:-1 tvg-id="AXNBlack.pl" tvg-name="AXN Black" tvg-logo="https://picon-13398.kxcdn.com/axnblack.jpg" group-title="Live: Poland",AXN Black
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11512.m3u8
-#EXTINF:-1 tvg-id="AXN.pl" tvg-name="AXN Polska" tvg-logo="https://picon-13398.kxcdn.com/axnhd.jpg" group-title="Live: Poland",AXN Polska
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11699.m3u8
-#EXTINF:-1 tvg-id="AXN.pl" tvg-name="AXN Polska" tvg-logo="https://picon-13398.kxcdn.com/axn.jpg" group-title="Live: Poland",AXN Polska
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11511.m3u8
-#EXTINF:-1 tvg-id="AXNSpin.pl" tvg-name="AXN Spin" tvg-logo="https://picon-13398.kxcdn.com/axnspinhd.jpg" group-title="Live: Poland",AXN Spin
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11629.m3u8
-#EXTINF:-1 tvg-id="AXNWhite.pl" tvg-name="AXN White" tvg-logo="https://picon-13398.kxcdn.com/axnwhite.jpg" group-title="Live: Poland",AXN White
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11513.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTurboXtra.pl" tvg-name="Discovery Turbo Xtra" tvg-logo="https://picon-13398.kxcdn.com/discoveryturboxtra.jpg" group-title="Live: Poland",Discovery Turbo Xtra
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11196.m3u8
-#EXTINF:-1 tvg-id="AleKino.pl" tvg-name="Ale kino+" tvg-logo="https://picon-13398.kxcdn.com/alekinoplushd.jpg" group-title="Live: Poland",Ale kino+
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15219.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.pl" tvg-name="Animalanet" tvg-logo="https://picon-13398.kxcdn.com/animalplanethd.jpg" group-title="Live: Poland",Animalanet
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/13540.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.pl" tvg-name="BBC Earth" tvg-logo="https://picon-13398.kxcdn.com/bbcearth.jpg" group-title="Live: Poland",BBC Earth
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/13538.m3u8
-#EXTINF:-1 tvg-id="BBC.pl" tvg-name="BBC First" tvg-logo="https://picon-13398.kxcdn.com/bbcfirstpl.jpg" group-title="Live: Poland",BBC First
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/13537.m3u8
-#EXTINF:-1 tvg-id="Boomerang.pl" tvg-name="Boomerang" tvg-logo="https://picon-13398.kxcdn.com/boomerang.jpg" group-title="Live: Poland",Boomerang
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11522.m3u8
-#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="Canal+ 1" tvg-logo="https://picon-13398.kxcdn.com/canalplus1hd.jpg" group-title="Live: Poland",Canal+ 1
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15204.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Dokument" tvg-logo="https://picon-13398.kxcdn.com/canalplusdocumentpl.jpg" group-title="Live: Poland",Canal+ Dokument
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15217.m3u8
-#EXTINF:-1 tvg-id="CanalPlusFamily.pl" tvg-name="Canal+ Family" tvg-logo="https://picon-13398.kxcdn.com/canalplusfamily.jpg" group-title="Live: Poland",Canal+ Family
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15216.m3u8
-#EXTINF:-1 tvg-id="CanalPlusFilm.pl" tvg-name="Canal+ Film" tvg-logo="https://picon-13398.kxcdn.com/canalplusfilmhd.jpg" group-title="Live: Poland",Canal+ Film
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15215.m3u8
-#EXTINF:-1 tvg-id="MotowizjaTV.pl" tvg-name="Motowizja" tvg-logo="https://picon-13398.kxcdn.com/motowizjatv.jpg" group-title="Live: Poland",Motowizja
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/19153.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSeriale.pl" tvg-name="Canal+ Seriale" tvg-logo="https://picon-13398.kxcdn.com/canalplusserialehd.jpg" group-title="Live: Poland",Canal+ Seriale
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15214.m3u8
-#EXTINF:-1 tvg-id="WPTelewizja.pl" tvg-name="WP Telewizja" tvg-logo="https://picon-13398.kxcdn.com/wptvpl.jpg" group-title="Live: Poland",WP Telewizja
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11517.m3u8
-#EXTINF:-1 tvg-id="CBSEuropa.pl" tvg-name="CBS Europa" tvg-logo="https://picon-13398.kxcdn.com/cbseuropa.jpg" group-title="Live: Poland",CBS Europa
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15202.m3u8
-#EXTINF:-1 tvg-id="CBSReality.pl" tvg-name="CBS Reality" tvg-logo="https://picon-13398.kxcdn.com/cbsreality.jpg" group-title="Live: Poland",CBS Reality
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11518.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central Extra Polsat" tvg-logo="https://picon-13398.kxcdn.com/comedycentralextra.jpg" group-title="Live: Poland",Comedy Central Extra Polsat
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11704.m3u8
-#EXTINF:-1 tvg-id="PolsatPlay.pl" tvg-name="Canal + Premium" tvg-logo="https://picon-13398.kxcdn.com/canalplushd.jpg" group-title="Live: Poland",Canal + Premium
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/13530.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="Canal+ Sport" tvg-logo="https://picon-13398.kxcdn.com/canalplussport.jpg" group-title="Live: Poland",Canal+ Sport
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/13535.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport 2.pl" tvg-name="Canal+ Sport 2" tvg-logo="https://picon-13398.kxcdn.com/canalplussport2hd.jpg" group-title="Live: Poland",Canal+ Sport 2
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15709.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.pl" tvg-name="Cartoon Network" tvg-logo="https://picon-13398.kxcdn.com/cartoonnethd.jpg" group-title="Live: Poland",Cartoon Network
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15203.m3u8
-#EXTINF:-1 tvg-id="Cinemax.pl" tvg-name="Cinemax" tvg-logo="https://picon-13398.kxcdn.com/cinemaxhd.jpg" group-title="Live: Poland",Cinemax
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15710.m3u8
-#EXTINF:-1 tvg-id="Cinemax2.pl" tvg-name="Cinemax 2" tvg-logo="https://picon-13398.kxcdn.com/cinemax2hd.jpg" group-title="Live: Poland",Cinemax 2
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15099.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation" tvg-logo="https://picon-13398.kxcdn.com/crimeandinvest.jpg" group-title="Live: Poland",Crime & Investigation
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/24146.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Domo+" tvg-logo="https://picon-13398.kxcdn.com/domoplushd.jpg" group-title="Live: Poland",Domo+
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15199.m3u8
-#EXTINF:-1 tvg-id="Discovery.pl" tvg-name="Discovery Channel" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="Live: Poland",Discovery Channel
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15213.m3u8
-#EXTINF:-1 tvg-id="DiscoveryHistoria.pl" tvg-name="Discovery Historia" tvg-logo="https://picon-13398.kxcdn.com/discoveryhistoria.jpg" group-title="Live: Poland",Discovery Historia
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15098.m3u8
-#EXTINF:-1 tvg-id="DiscoveryLife.pl" tvg-name="Discovery Life" tvg-logo="https://picon-13398.kxcdn.com/discoverylife.jpg" group-title="Live: Poland",Discovery Life
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11520.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience.pl" tvg-name="Discovery Science" tvg-logo="https://picon-13398.kxcdn.com/discoveryscience.jpg" group-title="Live: Poland",Discovery Science
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15201.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTurboXtra.pl" tvg-name="Discovery Turbo Xtra" tvg-logo="https://picon-13398.kxcdn.com/discoveryturboxtrahd.jpg" group-title="Live: Poland",Discovery Turbo Xtra
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15212.m3u8
-#EXTINF:-1 tvg-id="Metro.pl" tvg-name="Metro" tvg-logo="https://picon-13398.kxcdn.com/metrotv.jpg" group-title="Live: Poland",Metro
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11195.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-name="Disney Channel" tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="Live: Poland",Disney Channel
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11523.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.pl" tvg-name="Disney Junior" tvg-logo="https://picon-13398.kxcdn.com/disneyjunior.jpg" group-title="Live: Poland",Disney Junior
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15200.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.pl" tvg-name="Disney XD" tvg-logo="https://picon-13398.kxcdn.com/disneyxd.jpg" group-title="Live: Poland",Disney XD
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11524.m3u8
-#EXTINF:-1 tvg-id="ElevenSport1.pl" tvg-name="Eleven Sports 1" tvg-logo="https://picon-13398.kxcdn.com/elvensports1pl.jpg" group-title="Live: Poland",Eleven Sports 1
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15198.m3u8
-#EXTINF:-1 tvg-id="ElevenSport2.pl" tvg-name="Eleven Sports 2" tvg-logo="https://picon-13398.kxcdn.com/elvensports2pl.jpg" group-title="Live: Poland",Eleven Sports 2
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15197.m3u8
-#EXTINF:-1 tvg-id="ElevenSport3.pl" tvg-name="Eleven Sports 3" tvg-logo="https://picon-13398.kxcdn.com/elvensports3pl.jpg" group-title="Live: Poland",Eleven Sports 3
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15097.m3u8
-#EXTINF:-1 tvg-id="ElevenSport4.pl" tvg-name="Eleven Sports 4" tvg-logo="https://picon-13398.kxcdn.com/elvensports4pl.jpg" group-title="Live: Poland",Eleven Sports 4
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/19149.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Epic Drama" tvg-logo="https://picon-13398.kxcdn.com/epicdramapl.jpg" group-title="Live: Poland",Epic Drama
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/19081.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="https://picon-13398.kxcdn.com/eentertainmenthd.jpg" group-title="Live: Poland",E!
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/22302.m3u8
-#EXTINF:-1 tvg-id="Eurosport.pl" tvg-name="Eurosport 1" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="Live: Poland",Eurosport 1
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15096.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.pl" tvg-name="Eurosport 2" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="Live: Poland",Eurosport 2
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15195.m3u8
-#EXTINF:-1 tvg-id="ExtremeSports.pl" tvg-name="Extreme Sports" tvg-logo="https://picon-13398.kxcdn.com/extremesportshd.jpg" group-title="Live: Poland",Extreme Sports
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15194.m3u8
-#EXTINF:-1 tvg-id="FightBox.pl" tvg-name="FightBox" tvg-logo="https://picon-13398.kxcdn.com/fightboxhd.jpg" group-title="Live: Poland",FightBox
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15095.m3u8
-#EXTINF:-1 tvg-id="FightKlub.pl" tvg-name="Fight Klub" tvg-logo="https://picon-13398.kxcdn.com/fightklubhdpl.jpg" group-title="Live: Poland",Fight Klub
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15193.m3u8
-#EXTINF:-1 tvg-id="FilmBoxAction.pl" tvg-name="FilmBox Action" tvg-logo="https://picon-13398.kxcdn.com/filmboxaction.jpg" group-title="Live: Poland",FilmBox Action
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11508.m3u8
-#EXTINF:-1 tvg-id="FilmboxFamily.pl" tvg-name="FilmBox Family" tvg-logo="https://picon-13398.kxcdn.com/filmboxfamily.jpg" group-title="Live: Poland",FilmBox Family
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11509.m3u8
-#EXTINF:-1 tvg-id="KinoPolska.pl" tvg-name="Kino TV" tvg-logo="https://picon-13398.kxcdn.com/kinotvpl.jpg" group-title="Live: Poland",Kino TV
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11507.m3u8
-#EXTINF:-1 tvg-id="FilmboxPremium.pl" tvg-name="FilmBox Premium" tvg-logo="https://picon-13398.kxcdn.com/filmboxpremium.jpg" group-title="Live: Poland",FilmBox Premium
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11510.m3u8
-#EXTINF:-1 tvg-id="FokusTV.pl" tvg-name="Fokus TV" tvg-logo="https://picon-13398.kxcdn.com/fokustv.jpg" group-title="Live: Poland",Fokus TV
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/12821.m3u8
-#EXTINF:-1 tvg-id="FoxComedy.pl" tvg-name="FOX Comedy Polska" tvg-logo="https://picon-13398.kxcdn.com/foxcomedyhd.jpg" group-title="Live: Poland",FOX Comedy Polska
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11698.m3u8
-#EXTINF:-1 tvg-id="FoxComedy.pl" tvg-name="FOX Comedy Polska" tvg-logo="https://picon-13398.kxcdn.com/foxcomedy.jpg" group-title="Live: Poland",FOX Comedy Polska
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11634.m3u8
-#EXTINF:-1 tvg-id="FOX.pl" tvg-name="FOX Polska" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Live: Poland",FOX Polska
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11697.m3u8
-#EXTINF:-1 tvg-id="History2.pl" tvg-name="H2 Polska" tvg-logo="https://picon-13398.kxcdn.com/h2hd.jpg" group-title="Live: Poland",H2 Polska
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15093.m3u8
-#EXTINF:-1 tvg-id="HBO.pl" tvg-name="HBO" tvg-logo="https://picon-13398.kxcdn.com/hbo1hd.jpg" group-title="Live: Poland",HBO
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/13526.m3u8
-#EXTINF:-1 tvg-id="HBO2.pl" tvg-name="HBO 2" tvg-logo="https://picon-13398.kxcdn.com/hbo2hd.jpg" group-title="Live: Poland",HBO 2
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/13527.m3u8
-#EXTINF:-1 tvg-id="HBO3.pl" tvg-name="HBO 3" tvg-logo="https://picon-13398.kxcdn.com/hbo3hd.jpg" group-title="Live: Poland",HBO 3
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15092.m3u8
-#EXTINF:-1 tvg-id="History.pl" tvg-name="History" tvg-logo="https://picon-13398.kxcdn.com/historyhd.jpg" group-title="Live: Poland",History
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15091.m3u8
-#EXTINF:-1 tvg-id="InvestigationDiscovery.pl" tvg-name="Investigation Discovery" tvg-logo="https://picon-13398.kxcdn.com/investigationdiscoveryhd.jpg" group-title="Live: Poland",Investigation Discovery
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15211.m3u8
-#EXTINF:-1 tvg-id="KinoPolskaMuzyka.pl" tvg-name="Kino Polska Muzyka" tvg-logo="https://picon-13398.kxcdn.com/kinopolskamuzyka.jpg" group-title="Live: Poland",Kino Polska Muzyka
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15090.m3u8
-#EXTINF:-1 tvg-id="KinoPolska.pl" tvg-name="Kino Polska" tvg-logo="https://picon-13398.kxcdn.com/kinopolska.jpg" group-title="Live: Poland",Kino Polska
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11192.m3u8
-#EXTINF:-1 tvg-id="KuchniaPlus.pl" tvg-name="Kuchnia +" tvg-logo="https://picon-13398.kxcdn.com/kuchniaplushd.jpg" group-title="Live: Poland",Kuchnia +
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15210.m3u8
-#EXTINF:-1 tvg-id="Lifetime.pl" tvg-name="Lifetime" tvg-logo="https://picon-13398.kxcdn.com/lifetimehd.jpg" group-title="Live: Poland",Lifetime
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15089.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV 90s" tvg-logo="https://picon-13398.kxcdn.com/mtv90sus.jpg" group-title="Live: Poland",MTV 90s
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11703.m3u8
-#EXTINF:-1 tvg-id="MTVPolska.pl" tvg-name="MTV Polska" tvg-logo="https://picon-13398.kxcdn.com/mtvpolska.jpg" group-title="Live: Poland",MTV Polska
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11702.m3u8
-#EXTINF:-1 tvg-id="MTVLive.pl" tvg-name="MTV Live" tvg-logo="https://picon-13398.kxcdn.com/mtvlivehd.jpg" group-title="Live: Poland",MTV Live
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/20424.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MiniMini +" tvg-logo="https://picon-13398.kxcdn.com/miniminiplushd.jpg" group-title="Live: Poland",MiniMini +
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15088.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NTL" tvg-logo="https://picon-13398.kxcdn.com/ntl.jpg" group-title="Live: Poland",NTL
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15190.m3u8
-#EXTINF:-1 tvg-id="NatGeo.pl" tvg-name="National Geographic" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg" group-title="Live: Poland",National Geographic
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15087.m3u8
-#EXTINF:-1 tvg-id="NatGeo.pl" tvg-name="National Geographic Polska" tvg-logo="https://picon-13398.kxcdn.com/natgeo.jpg" group-title="Live: Poland",National Geographic Polska
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11515.m3u8
-#EXTINF:-1 tvg-id="NatGeoPeople.pl" tvg-name="National Geographic People" tvg-logo="https://picon-13398.kxcdn.com/natgeopeoplehd.jpg" group-title="Live: Poland",National Geographic People
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15191.m3u8
-#EXTINF:-1 tvg-id="NatGeoWild.pl" tvg-name="National Geographic Wild" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="Live: Poland",National Geographic Wild
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15711.m3u8
-#EXTINF:-1 tvg-id="NatGeoWild.pl" tvg-name="National Geographic Wild" tvg-logo="https://picon-13398.kxcdn.com/natgeowild.jpg" group-title="Live: Poland",National Geographic Wild
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11516.m3u8
-#EXTINF:-1 tvg-id="NickJr.pl" tvg-name="Nick Jr." tvg-logo="https://picon-13398.kxcdn.com/nickjr.jpg" group-title="Live: Poland",Nick Jr.
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11706.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-name="Nickelodeon" tvg-logo="https://picon-13398.kxcdn.com/nickelodeon.jpg" group-title="Live: Poland",Nickelodeon
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11705.m3u8
-#EXTINF:-1 tvg-id="PowerTV.pl" tvg-name="Power TV" tvg-logo="https://picon-13398.kxcdn.com/powertv.jpg" group-title="Live: Poland",Power TV
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15187.m3u8
-#EXTINF:-1 tvg-id="HGTV.pl" tvg-name="HGTV  PL" tvg-logo="https://picon-13398.kxcdn.com/hgtv.jpg" group-title="Live: Poland",HGTV  PL
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11188.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Planete + Polska" tvg-logo="https://picon-13398.kxcdn.com/planeteplushd.jpg" group-title="Live: Poland",Planete + Polska
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15208.m3u8
-#EXTINF:-1 tvg-id="PoloTV.pl" tvg-name="Polo TV" tvg-logo="https://picon-13398.kxcdn.com/polotv.jpg" group-title="Live: Poland",Polo TV
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/13517.m3u8
-#EXTINF:-1 tvg-id="Polonia1.pl" tvg-name="Polonia 1" tvg-logo="https://picon-13398.kxcdn.com/polonia1.jpg" group-title="Live: Poland",Polonia 1
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11711.m3u8
-#EXTINF:-1 tvg-id="Polsat2.pl" tvg-name="Polsat 2" tvg-logo="https://picon-13398.kxcdn.com/polsat2hd.jpg" group-title="Live: Poland",Polsat 2
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/12817.m3u8
-#EXTINF:-1 tvg-id="Polsat2.pl" tvg-name="Polsat 2" tvg-logo="https://picon-13398.kxcdn.com/polsat2.jpg" group-title="Live: Poland",Polsat 2
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11185.m3u8
-#EXTINF:-1 tvg-id="PolsatCafe.pl" tvg-name="Polsat Café" tvg-logo="https://picon-13398.kxcdn.com/polsatcafehd.jpg" group-title="Live: Poland",Polsat Café
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11198.m3u8
-#EXTINF:-1 tvg-id="PolsatFilm.pl" tvg-name="Polsat Film" tvg-logo="https://picon-13398.kxcdn.com/polsatfilmhd.jpg" group-title="Live: Poland",Polsat Film
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15086.m3u8
-#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat" tvg-logo="https://picon-13398.kxcdn.com/polsathd.jpg" group-title="Live: Poland",Polsat
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11696.m3u8
-#EXTINF:-1 tvg-id="JimJam.pl" tvg-name="JimJam Polsat" tvg-logo="https://picon-13398.kxcdn.com/jimjampolsat.jpg" group-title="Live: Poland",JimJam Polsat
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11710.m3u8
-#EXTINF:-1 tvg-id="PolsatNews2.pl" tvg-name="Polsat News 2" tvg-logo="https://picon-13398.kxcdn.com/polsatnews2.jpg" group-title="Live: Poland",Polsat News 2
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11181.m3u8
-#EXTINF:-1 tvg-id="PolsatNews.pl" tvg-name="Polsat News" tvg-logo="https://picon-13398.kxcdn.com/polsatnewshd.jpg" group-title="Live: Poland",Polsat News
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15085.m3u8
-#EXTINF:-1 tvg-id="PolsatDoku.pl" tvg-name="Polsat Doku" tvg-logo="https://picon-13398.kxcdn.com/polsatdokupl.jpg" group-title="Live: Poland",Polsat Doku
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/20123.m3u8
-#EXTINF:-1 tvg-id="PolsatMusic.pl" tvg-name="Polsat Music" tvg-logo="https://picon-13398.kxcdn.com/polsatmusicpl.jpg" group-title="Live: Poland",Polsat Music
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/21527.m3u8
-#EXTINF:-1 tvg-id="PolsatPlay.pl" tvg-name="Polsatay" tvg-logo="https://picon-13398.kxcdn.com/polsatplayhd.jpg" group-title="Live: Poland",Polsatay
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11177.m3u8
-#EXTINF:-1 tvg-id="PolsatPlay.pl" tvg-name="Polsat Seriale" tvg-logo="https://picon-13398.kxcdn.com/polsatromans.jpg" group-title="Live: Poland",Polsat Seriale
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11709.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Seriale" tvg-logo="https://picon-13398.kxcdn.com/polsatserialepl.jpg" group-title="Live: Poland",Polsat Seriale
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/48712.m3u8
-#EXTINF:-1 tvg-id="PolsatSportExtra.pl" tvg-name="Polsat Sport Extra" tvg-logo="https://picon-13398.kxcdn.com/polsatsportextrahd.jpg" group-title="Live: Poland",Polsat Sport Extra
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11201.m3u8
-#EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-name="Polsat Sport Fight" tvg-logo="https://picon-13398.kxcdn.com/polsatsportfighthd.jpg" group-title="Live: Poland",Polsat Sport Fight
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15188.m3u8
-#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="Polsat Sport Premium 1" tvg-logo="https://picon-13398.kxcdn.com/polsatsportpremium1pl.jpg" group-title="Live: Poland",Polsat Sport Premium 1
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/23369.m3u8
-#EXTINF:-1 tvg-id="PolsatSportPremium2.pl" tvg-name="Polsat Sport Premium 2" tvg-logo="https://picon-13398.kxcdn.com/polsatsportpremium2pl.jpg" group-title="Live: Poland",Polsat Sport Premium 2
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/23370.m3u8
-#EXTINF:-1 tvg-id="PolsatSportPremium3.pl" tvg-name="Polsat Sport Premium 3 PPV" tvg-logo="https://picon-13398.kxcdn.com/polsatsportpremium3pl.jpg" group-title="Live: Poland",Polsat Sport Premium 3 PPV
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/23420.m3u8
-#EXTINF:-1 tvg-id="PolsatSportPremium4.pl" tvg-name="Polsat Sport Premium 4 PPV" tvg-logo="https://picon-13398.kxcdn.com/polsatsportpremium4pl.jpg" group-title="Live: Poland",Polsat Sport Premium 4 PPV
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/23421.m3u8
-#EXTINF:-1 tvg-id="PolsatSportPremium5.pl" tvg-name="Polsat Sport Premium 5 PPV" tvg-logo="https://picon-13398.kxcdn.com/polsatsportpremium5pl.jpg" group-title="Live: Poland",Polsat Sport Premium 5 PPV
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/23422.m3u8
-#EXTINF:-1 tvg-id="PolsatSportPremium6.pl" tvg-name="Polsat Sport Premium 6 PPV" tvg-logo="https://picon-13398.kxcdn.com/polsatsportpremium6pl.jpg" group-title="Live: Poland",Polsat Sport Premium 6 PPV
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/23423.m3u8
-#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="Polsat Sport" tvg-logo="https://picon-13398.kxcdn.com/polsatsporthd.jpg" group-title="Live: Poland",Polsat Sport
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11200.m3u8
-#EXTINF:-1 tvg-id="SuperPolsat.pl" tvg-name="Super Polsat" tvg-logo="https://picon-13398.kxcdn.com/superpolsatpl.jpg" group-title="Live: Poland",Super Polsat
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11199.m3u8
-#EXTINF:-1 tvg-id="ViasatHistory.pl" tvg-name="Polsat Viasat History" tvg-logo="https://picon-13398.kxcdn.com/polsatviasathistory.jpg" group-title="Live: Poland",Polsat Viasat History
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15084.m3u8
-#EXTINF:-1 tvg-id="TVPuls2.pl" tvg-name="TV Puls 2" tvg-logo="https://picon-13398.kxcdn.com/puls2.jpg" group-title="Live: Poland",TV Puls 2
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15185.m3u8
-#EXTINF:-1 tvg-id="RomanceTV.pl" tvg-name="Romance TV Polska" tvg-logo="https://picon-13398.kxcdn.com/romancetvhd.jpg" group-title="Live: Poland",Romance TV Polska
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15207.m3u8
-#EXTINF:-1 tvg-id="ScifiUniversal.pl" tvg-name="Scifi Universal" tvg-logo="https://picon-13398.kxcdn.com/scifiuniversalpl.jpg" group-title="Live: Poland",Scifi Universal
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/20124.m3u8
-#EXTINF:-1 tvg-id="StarsTV.pl" tvg-name="Stars TV" tvg-logo="https://picon-13398.kxcdn.com/starstv.jpg" group-title="Live: Poland",Stars TV
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15082.m3u8
-#EXTINF:-1 tvg-id="Tele5.pl" tvg-name="Tele 5" tvg-logo="https://picon-13398.kxcdn.com/tele5-lichoridas.jpg" group-title="Live: Poland",Tele 5
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11630.m3u8
-#EXTINF:-1 tvg-id="TLC.pl" tvg-name="TLC" tvg-logo="https://picon-13398.kxcdn.com/tlchd.jpg" group-title="Live: Poland",TLC
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15080.m3u8
-#EXTINF:-1 tvg-id="TLC.pl" tvg-name="TLC" tvg-logo="https://picon-13398.kxcdn.com/tlc.jpg" group-title="Live: Poland",TLC
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11632.m3u8
-#EXTINF:-1 tvg-id="TNT.pl" tvg-name="TNT" tvg-logo="https://picon-13398.kxcdn.com/tnthd.jpg" group-title="Live: Poland",TNT
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15184.m3u8
-#EXTINF:-1 tvg-id="TOTV.pl" tvg-name="TOTV" tvg-logo="https://picon-13398.kxcdn.com/totvpl.jpg" group-title="Live: Poland",TOTV
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15183.m3u8
-#EXTINF:-1 tvg-id="TTV.pl" tvg-name="TTV" tvg-logo="https://picon-13398.kxcdn.com/ttv.jpg" group-title="Live: Poland",TTV
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15181.m3u8
-#EXTINF:-1 tvg-id="TV4.pl" tvg-name="TV 4" tvg-logo="https://picon-13398.kxcdn.com/tv4hd.jpg" group-title="Live: Poland",TV 4
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11178.m3u8
-#EXTINF:-1 tvg-id="TV6.pl" tvg-name="TV 6" tvg-logo="https://picon-13398.kxcdn.com/tv6.jpg" group-title="Live: Poland",TV 6
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/19082.m3u8
-#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info" tvg-logo="https://picon-13398.kxcdn.com/tvpinfohdpl.jpg" group-title="Live: Poland",TVP Info
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15078.m3u8
-#EXTINF:-1 tvg-id="TVN24.pl" tvg-name="TVN 24" tvg-logo="https://picon-13398.kxcdn.com/tvn24hd.jpg" group-title="Live: Poland",TVN 24
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15180.m3u8
-#EXTINF:-1 tvg-id="TVN7.pl" tvg-name="TVN 7" tvg-logo="https://picon-13398.kxcdn.com/tvn7hd.jpg" group-title="Live: Poland",TVN 7
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15179.m3u8
-#EXTINF:-1 tvg-id="TVNFabula.pl" tvg-name="TVN Fabuła" tvg-logo="https://picon-13398.kxcdn.com/tvnfabula.jpg" group-title="Live: Poland",TVN Fabuła
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15178.m3u8
-#EXTINF:-1 tvg-id="TVN.pl" tvg-name="TVN" tvg-logo="https://picon-13398.kxcdn.com/tvnhd.jpg" group-title="Live: Poland",TVN
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15177.m3u8
-#EXTINF:-1 tvg-id="TVNStyle.pl" tvg-name="TVN Style" tvg-logo="https://picon-13398.kxcdn.com/tvnstylehd.jpg" group-title="Live: Poland",TVN Style
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15176.m3u8
-#EXTINF:-1 tvg-id="TVNTurbo.pl" tvg-name="TVN Turbo" tvg-logo="https://picon-13398.kxcdn.com/tvnturbohd.jpg" group-title="Live: Poland",TVN Turbo
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15175.m3u8
-#EXTINF:-1 tvg-id="TVNTurbo.pl" tvg-name="TVN Turbo" tvg-logo="https://picon-13398.kxcdn.com/tvnturbo.jpg" group-title="Live: Poland",TVN Turbo
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/19085.m3u8
-#EXTINF:-1 tvg-id="TVN24.pl" tvg-name="TVN 24 BiS" tvg-logo="https://picon-13398.kxcdn.com/tvn24bis.jpg" group-title="Live: Poland",TVN 24 BiS
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/19152.m3u8
-#EXTINF:-1 tvg-id="TVN.pl" tvg-name="TVN" tvg-logo="https://picon-13398.kxcdn.com/tvn.jpg" group-title="Live: Poland",TVN
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/19087.m3u8
-#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP 1" tvg-logo="https://picon-13398.kxcdn.com/tvp1hd.jpg" group-title="Live: Poland",TVP 1
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/12810.m3u8
-#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="TVP 2" tvg-logo="https://picon-13398.kxcdn.com/tvp2hd.jpg" group-title="Live: Poland",TVP 2
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/12811.m3u8
-#EXTINF:-1 tvg-id="TVP3.pl" tvg-name="TVP 3 Warszawa" tvg-logo="https://picon-13398.kxcdn.com/tvp3.jpg" group-title="Live: Poland",TVP 3 Warszawa
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15077.m3u8
-#EXTINF:-1 tvg-id="TVPABC.pl" tvg-name="TVP ABC" tvg-logo="https://picon-13398.kxcdn.com/tvpabc.jpg" group-title="Live: Poland",TVP ABC
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15076.m3u8
-#EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-name="TVP Historia" tvg-logo="https://picon-13398.kxcdn.com/tvphistoria.jpg" group-title="Live: Poland",TVP Historia
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15075.m3u8
-#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info" tvg-logo="https://picon-13398.kxcdn.com/tvpinfo.jpg" group-title="Live: Poland",TVP Info
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15074.m3u8
-#EXTINF:-1 tvg-id="TVPSeriale.pl" tvg-name="TVP Seriale" tvg-logo="https://picon-13398.kxcdn.com/tvpseriale.jpg" group-title="Live: Poland",TVP Seriale
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11514.m3u8
-#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="TVP Sport" tvg-logo="https://picon-13398.kxcdn.com/tvpsporthd.jpg" group-title="Live: Poland",TVP Sport
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/12826.m3u8
-#EXTINF:-1 tvg-id="TVPKultura.pl" tvg-name="TVP Kultura" tvg-logo="https://picon-13398.kxcdn.com/tvpkulturapl.jpg" group-title="Live: Poland",TVP Kultura
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/24147.m3u8
-#EXTINF:-1 tvg-id="TVS.pl" tvg-name="TVS" tvg-logo="https://picon-13398.kxcdn.com/tvs.jpg" group-title="Live: Poland",TVS
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/12820.m3u8
-#EXTINF:-1 tvg-id="DaVinciLearning.pl" tvg-name="Da Vinci Learning" tvg-logo="https://picon-13398.kxcdn.com/davincilearning.jpg" group-title="Live: Poland",Da Vinci Learning
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15182.m3u8
-#EXTINF:-1 tvg-id="PolsatPlay.pl" tvg-name="VH1" tvg-logo="https://picon-13398.kxcdn.com/vh1.jpg" group-title="Live: Poland",VH1
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11701.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VOX Music TV" tvg-logo="https://picon-13398.kxcdn.com/voxmusic.jpg" group-title="Live: Poland",VOX Music TV
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15174.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="N Sport +" tvg-logo="https://picon-13398.kxcdn.com/nsportplushd.jpg" group-title="Live: Poland",N Sport +
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15209.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Teletoon +" tvg-logo="https://picon-13398.kxcdn.com/teletoonplushd-lichoridas.jpg" group-title="Live: Poland",Teletoon +
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15206.m3u8
-#EXTINF:-1 tvg-id="4FunFitDance.pl" tvg-name="4 Fun Dance" tvg-logo="https://picon-13398.kxcdn.com/4funfitanddance.jpg" group-title="Live: Poland",4 Fun Dance
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/16291.m3u8
-#EXTINF:-1 tvg-id="4FunHits.pl" tvg-name="4 Fun Kids" tvg-logo="https://picon-13398.kxcdn.com/4funkidspl.jpg" group-title="Live: Poland",4 Fun Kids
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/16290.m3u8
-#EXTINF:-1 tvg-id="4funTV.pl" tvg-name="4 Fun TV" tvg-logo="https://picon-13398.kxcdn.com/4funtv.jpg" group-title="Live: Poland",4 Fun TV
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/16289.m3u8
-#EXTINF:-1 tvg-id="FilmboxArthouse.pl" tvg-name="FilmBox Arthouse" tvg-logo="https://picon-13398.kxcdn.com/filmboxarthouse.jpg" group-title="Live: Poland",FilmBox Arthouse
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/16287.m3u8
-#EXTINF:-1 tvg-id="Stopklatka.pl" tvg-name="Stopklatka TV" tvg-logo="https://picon-13398.kxcdn.com/stopklatkatv.jpg" group-title="Live: Poland",Stopklatka TV
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/16284.m3u8
-#EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="TV Republika" tvg-logo="https://picon-13398.kxcdn.com/tvrepublika.jpg" group-title="Live: Poland",TV Republika
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/16283.m3u8
-#EXTINF:-1 tvg-id="TVPRozrywka.pl" tvg-name="TVP Rozrywka" tvg-logo="https://picon-13398.kxcdn.com/tvprozrywka.jpg" group-title="Live: Poland",TVP Rozrywka
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/16282.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VOD 205" tvg-logo="https://picon-13398.kxcdn.com/vod150.jpg" group-title="Live: Poland",VOD 205
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/16279.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VOD 206" tvg-logo="https://picon-13398.kxcdn.com/vod150.jpg" group-title="Live: Poland",VOD 206
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/16278.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VOD 207" tvg-logo="https://picon-13398.kxcdn.com/vod150.jpg" group-title="Live: Poland",VOD 207
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/16277.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zoom TV" tvg-logo="https://picon-13398.kxcdn.com/zoomtv.jpg" group-title="Live: Poland",Zoom TV
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/16271.m3u8
-#EXTINF:-1 tvg-id="SportKlub.pl" tvg-name="Sport Klub Polska" tvg-logo="https://picon-13398.kxcdn.com/sportklub.jpg" group-title="Live: Poland",Sport Klub Polska
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/16835.m3u8
-#EXTINF:-1 tvg-id="TVPuls.pl" tvg-name="TV Puls" tvg-logo="https://picon-13398.kxcdn.com/tvplushdpl.jpg" group-title="Live: Poland",TV Puls
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/16606.m3u8
-#EXTINF:-1 tvg-id="ATMRozrywka.pl" tvg-name="ATM Rozrywka" tvg-logo="https://picon-13398.kxcdn.com/atmrozrywka.jpg" group-title="Live: Poland",ATM Rozrywka
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/17040.m3u8
-#EXTINF:-1 tvg-id="ViasatExplore.pl" tvg-name="Viasat Explore Polsat" tvg-logo="https://picon-13398.kxcdn.com/viasatexplore.jpg" group-title="Live: Poland",Viasat Explore Polsat
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/18387.m3u8
-#EXTINF:-1 tvg-id="TravelChannel.pl" tvg-name="Travel Channel" tvg-logo="https://picon-13398.kxcdn.com/travelchannelhd.jpg" group-title="Live: Poland",Travel Channel
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/18389.m3u8
-#EXTINF:-1 tvg-id="TVP.pl" tvg-name="TVP" tvg-logo="https://picon-13398.kxcdn.com/tvphd.jpg" group-title="Live: Poland",TVP
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/18392.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="W Polsce" tvg-logo="https://picon-13398.kxcdn.com/wpolscepl.jpg" group-title="Live: Poland",W Polsce
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/19084.m3u8
-#EXTINF:-1 tvg-id="ViasatNature.pl" tvg-name="Viasat Nature Polsat" tvg-logo="https://picon-13398.kxcdn.com/viasatnature.jpg" group-title="Live: Poland",Viasat Nature Polsat
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/18388.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NickToons Polska" tvg-logo="https://picon-13398.kxcdn.com/nicktoons.jpg" group-title="Live: Poland",NickToons Polska
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/22772.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.pl" tvg-name="Comedy Central Polska" tvg-logo="https://picon-13398.kxcdn.com/comedycenthd.jpg" group-title="Live: Poland",Comedy Central Polska
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/22771.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central Extra Polsat" tvg-logo="https://picon-13398.kxcdn.com/comedycentralextra.jpg" group-title="Live: Poland",Comedy Central Extra Polsat
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/22770.m3u8
-#EXTINF:-1 tvg-id="ParamountChannel.pl" tvg-name="Paramount Channel Polska" tvg-logo="https://picon-13398.kxcdn.com/paramountchannelhd.jpg" group-title="Live: Poland",Paramount Channel Polska
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/22769.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nowa TV" tvg-logo="https://picon-13398.kxcdn.com/nowatv.jpg" group-title="Live: Poland",Nowa TV
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/22768.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Wateranet" tvg-logo="https://picon-13398.kxcdn.com/waterplanetpl.jpg" group-title="Live: Poland",Wateranet
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/22767.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Okazje" tvg-logo="https://picon-13398.kxcdn.com/tvokazjepl.jpg" group-title="Live: Poland",TV Okazje
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/22766.m3u8
-#EXTINF:-1 tvg-id="DiscoPoloMusic.pl" tvg-name="Disco Polo Music" tvg-logo="https://picon-13398.kxcdn.com/discopolomusic.jpg" group-title="Live: Poland",Disco Polo Music
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/22765.m3u8
-#EXTINF:-1 tvg-id="FoodNetwork.pl" tvg-name="Food Network" tvg-logo="https://picon-13398.kxcdn.com/foodnetworkhd.jpg" group-title="Live: Poland",Food Network
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/22764.m3u8
-#EXTINF:-1 tvg-id="ViasatNature.pl" tvg-name="Viasat Nature Polsat" tvg-logo="https://picon-13398.kxcdn.com/viasatnaturehd.jpg" group-title="Live: Poland",Viasat Nature Polsat
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/22763.m3u8
-#EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-name="Polsat Sport News" tvg-logo="https://picon-13398.kxcdn.com/polsatsportnewspl.jpg" group-title="Live: Poland",Polsat Sport News
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/22762.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://picon-13398.kxcdn.com/babytv.jpg" group-title="Live: Poland",Baby TV
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/22303.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eska TV Extra" tvg-logo="https://picon-13398.kxcdn.com/eskatvextrapl.jpg" group-title="Live: Poland",Eska TV Extra
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11182.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VOD 208" tvg-logo="https://picon-13398.kxcdn.com/vod150.jpg" group-title="Live: Poland",VOD 208
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/23299.m3u8
-#EXTINF:-1 tvg-id="BBCBrit.pl" tvg-name="BBC Brit Polska" tvg-logo="https://picon-13398.kxcdn.com/bbcbrit.jpg" group-title="Live: Poland",BBC Brit Polska
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/23317.m3u8
-#EXTINF:-1 tvg-id="BBCLifestyle.pl" tvg-name="BBC Lifestyle Polska" tvg-logo="https://picon-13398.kxcdn.com/bbclifestylepl.jpg" group-title="Live: Poland",BBC Lifestyle Polska
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/23318.m3u8
-#EXTINF:-1 tvg-id="BBCCbeebies.pl" tvg-name="BBC CBeebies" tvg-logo="https://picon-13398.kxcdn.com/bbccbeebiespl.jpg" group-title="Live: Poland",BBC CBeebies
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/23427.m3u8
-#EXTINF:-1 tvg-id="EskaTV.pl" tvg-name="Eska TV" tvg-logo="https://picon-13398.kxcdn.com/eskatv.jpg" group-title="Live: Poland",Eska TV
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/11197.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Games" tvg-logo="https://picon-13398.kxcdn.com/polsatgamespl.jpg" group-title="Live: Poland",Polsat Games
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/24376.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Rodzina" tvg-logo="https://picon-13398.kxcdn.com/polsatrodzinapl.jpg" group-title="Live: Poland",Polsat Rodzina
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/24377.m3u8
-#EXTINF:-1 tvg-id="Discovery.pl" tvg-name="Discovery Channel" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="Live: Poland",Discovery Channel
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/27048.m3u8
-#EXTINF:-1 tvg-id="InvestigationDiscovery.pl" tvg-name="Investigation Discovery" tvg-logo="https://picon-13398.kxcdn.com/investigationdiscovery.jpg" group-title="Live: Poland",Investigation Discovery
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/27128.m3u8
-#EXTINF:-1 tvg-id="FilmboxExtra.pl" tvg-name="FilmBox Extra" tvg-logo="https://picon-13398.kxcdn.com/filmboxextrahd.jpg" group-title="Live: Poland",FilmBox Extra
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/27555.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Red Carpet" tvg-logo="https://picon-13398.kxcdn.com/recarpetpl.jpg" group-title="Live: Poland",Red Carpet
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/27543.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sundance TV" tvg-logo="https://picon-13398.kxcdn.com/sundancetv.jpg" group-title="Live: Poland",Sundance TV
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/20422.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Golf Channel" tvg-logo="https://picon-13398.kxcdn.com/golfchannel.jpg" group-title="Live: Poland",Golf Channel
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/27541.m3u8
-#EXTINF:-1 tvg-id="NutaTV.pl" tvg-name="Nuta TV" tvg-logo="https://picon-13398.kxcdn.com/nutatvpl.jpg" group-title="Live: Poland",Nuta TV
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/27540.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 3" tvg-logo="https://picon-13398.kxcdn.com/canalplussport3pl.jpg" group-title="Live: Poland",Canal+ Sport 3
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/28019.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 4" tvg-logo="https://picon-13398.kxcdn.com/canalplus4pl.jpg" group-title="Live: Poland",Canal+ Sport 4
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/28020.m3u8
-#EXTINF:-1 tvg-id="TVR.pl" tvg-name="TVR" tvg-logo="https://picon-13398.kxcdn.com/tvrpl.jpg" group-title="Live: Poland",TVR
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/15394.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV TRWAM" tvg-logo="" group-title="Live: Poland",TV TRWAM
-http://clientportal.link:80/live/YEG6Pvj9016/jwD0bw965/66349.m3u8
+#EXTINF:-1,13 Ulica
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15100
+#EXTINF:-1,Adventure
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15205
+#EXTINF:-1,AMC Polska
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15218
+#EXTINF:-1,AXN Black
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11512
+#EXTINF:-1,AXN Polska
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11699
+#EXTINF:-1,AXN Polska
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11511
+#EXTINF:-1,AXN Spin
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11629
+#EXTINF:-1,AXN White
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11513
+#EXTINF:-1,Discovery Turbo Xtra
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11196
+#EXTINF:-1,Ale kino+
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15219
+#EXTINF:-1,Animal Planet
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/13540
+#EXTINF:-1,BBC Earth
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/13538
+#EXTINF:-1,BBC First
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/13537
+#EXTINF:-1,Boomerang
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11522
+#EXTINF:-1,Canal+ 1
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15204
+#EXTINF:-1,Canal+ Dokument
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15217
+#EXTINF:-1,Canal+ Family
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15216
+#EXTINF:-1,Canal+ Film
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15215
+#EXTINF:-1,Motowizja
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/19153
+#EXTINF:-1,Canal+ Seriale
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15214
+#EXTINF:-1,WP Telewizja
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11517
+#EXTINF:-1,CBS Europa
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15202
+#EXTINF:-1,CBS Reality
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11518
+#EXTINF:-1,Comedy Central Extra Polsat
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11704
+#EXTINF:-1,Canal+
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/13530
+#EXTINF:-1,Canal+ Sport
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/13535
+#EXTINF:-1,Canal+ Sport 2
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15709
+#EXTINF:-1,Cartoon Network
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15203
+#EXTINF:-1,Cinemax
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15710
+#EXTINF:-1,Cinemax 2
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15099
+#EXTINF:-1,Crime & Investigation
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/24146
+#EXTINF:-1,Domo+
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15199
+#EXTINF:-1,Discovery Channel
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15213
+#EXTINF:-1,Discovery Historia
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15098
+#EXTINF:-1,Discovery Life
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11520
+#EXTINF:-1,Discovery Science
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15201
+#EXTINF:-1,Discovery Turbo Xtra
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15212
+#EXTINF:-1,Metro
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11195
+#EXTINF:-1,Disney Channel
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11523
+#EXTINF:-1,Disney Junior
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15200
+#EXTINF:-1,Disney XD
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11524
+#EXTINF:-1,Eleven Sports 1
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15198
+#EXTINF:-1,Eleven Sports 2
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15197
+#EXTINF:-1,Eleven Sports 3
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15097
+#EXTINF:-1,Eleven Sports 4
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/19149
+#EXTINF:-1,Epic Drama
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/19081
+#EXTINF:-1,E!
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/22302
+#EXTINF:-1,Eurosport 1
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15096
+#EXTINF:-1,Eurosport 2
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15195
+#EXTINF:-1,Extreme Sports
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15194
+#EXTINF:-1,FightBox
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15095
+#EXTINF:-1,Fight Klub
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15193
+#EXTINF:-1,FilmBox Action
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11508
+#EXTINF:-1,FilmBox Family
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11509
+#EXTINF:-1,Kino TV
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11507
+#EXTINF:-1,FilmBox Premium
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11510
+#EXTINF:-1,Fokus TV
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/12821
+#EXTINF:-1,FOX Comedy Polska
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11698
+#EXTINF:-1,FOX Comedy Polska
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11634
+#EXTINF:-1,FOX Polska
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11697
+#EXTINF:-1,H2 Polska
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15093
+#EXTINF:-1,HBO
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/13526
+#EXTINF:-1,HBO 2
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/13527
+#EXTINF:-1,HBO 3
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15092
+#EXTINF:-1,History
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15091
+#EXTINF:-1,Investigation Discovery
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15211
+#EXTINF:-1,Kino Polska Muzyka
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15090
+#EXTINF:-1,Kino Polska
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11192
+#EXTINF:-1,Kuchnia +
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15210
+#EXTINF:-1,Lifetime
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15089
+#EXTINF:-1,MTV Rocks
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11703
+#EXTINF:-1,MTV Polska
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11702
+#EXTINF:-1,MTV Live
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/20424
+#EXTINF:-1,MiniMini +
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15088
+#EXTINF:-1,NTL
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15190
+#EXTINF:-1,National Geographic
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15087
+#EXTINF:-1,National Geographic Polska
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11515
+#EXTINF:-1,National Geographic People
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15191
+#EXTINF:-1,National Geographic Wild
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15711
+#EXTINF:-1,National Geographic Wild
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11516
+#EXTINF:-1,Nick Jr.
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11706
+#EXTINF:-1,Nickelodeon
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11705
+#EXTINF:-1,Power TV
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15187
+#EXTINF:-1,HGTV
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11188
+#EXTINF:-1,Planete + Polska
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15208
+#EXTINF:-1,Polo TV
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/13517
+#EXTINF:-1,Polonia 1
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11711
+#EXTINF:-1,Polsat 2
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/12817
+#EXTINF:-1,Polsat 2
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11185
+#EXTINF:-1,Polsat Café
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11198
+#EXTINF:-1,Polsat Film
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15086
+#EXTINF:-1,Polsat
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11696
+#EXTINF:-1,JimJam Polsat
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11710
+#EXTINF:-1,Polsat News 2
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11181
+#EXTINF:-1,Polsat News
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15085
+#EXTINF:-1,Polsat Doku
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/20123
+#EXTINF:-1,Polsat Music
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/21527
+#EXTINF:-1,Polsat Play
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11177
+#EXTINF:-1,Polsat Seriale
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11709
+#EXTINF:-1,Polsat Seriale
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/48712
+#EXTINF:-1,Polsat Sport Extra
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11201
+#EXTINF:-1,Polsat Sport Fight
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15188
+#EXTINF:-1,Polsat Sport Premium 1
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/23369
+#EXTINF:-1,Polsat Sport Premium 2
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/23370
+#EXTINF:-1,Polsat Sport Premium 3 PPV
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/23420
+#EXTINF:-1,Polsat Sport Premium 4 PPV
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/23421
+#EXTINF:-1,Polsat Sport Premium 5 PPV
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/23422
+#EXTINF:-1,Polsat Sport Premium 6 PPV
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/23423
+#EXTINF:-1,Polsat Sport
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11200
+#EXTINF:-1,Super Polsat
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11199
+#EXTINF:-1,Polsat Viasat History
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15084
+#EXTINF:-1,TV Puls 2
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15185
+#EXTINF:-1,Romance TV Polska
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15207
+#EXTINF:-1,Scifi Universal
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/20124
+#EXTINF:-1,Stars TV
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15082
+#EXTINF:-1,Tele 5
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11630
+#EXTINF:-1,TLC
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15080
+#EXTINF:-1,TLC
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11632
+#EXTINF:-1,TNT
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15184
+#EXTINF:-1,TOTV
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15183
+#EXTINF:-1,TTV
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15181
+#EXTINF:-1,TV 4
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11178
+#EXTINF:-1,TV6
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/19082
+#EXTINF:-1,TVP Info
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15078
+#EXTINF:-1,TVN 24
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15180
+#EXTINF:-1,TVN 7
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15179
+#EXTINF:-1,TVN Fabuła
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15178
+#EXTINF:-1,TVN
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15177
+#EXTINF:-1,TVN Style
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15176
+#EXTINF:-1,TVN Turbo
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15175
+#EXTINF:-1,TVN Turbo
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/19085
+#EXTINF:-1,TVN24Bis
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/19152
+#EXTINF:-1,TVN
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/19087
+#EXTINF:-1,TVP 1
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/12810
+#EXTINF:-1,TVP 2
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/12811
+#EXTINF:-1,TVP 3 Warszawa
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15077
+#EXTINF:-1,TVP ABC
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15076
+#EXTINF:-1,TVP Historia
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15075
+#EXTINF:-1,TVP Info
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15074
+#EXTINF:-1,TVP Seriale
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11514
+#EXTINF:-1,TVP Sport
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/12826
+#EXTINF:-1,TVP Kultura
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/24147
+#EXTINF:-1,TVS
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/12820
+#EXTINF:-1,Da Vinci Learning
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15182
+#EXTINF:-1,VH1 Polska
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11701
+#EXTINF:-1,VOX Music TV
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15174
+#EXTINF:-1,N Sport +
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15209
+#EXTINF:-1,TéléToon +
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15206
+#EXTINF:-1,4 Fun Dance
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/16291
+#EXTINF:-1,4 Fun Gold Hits
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/16290
+#EXTINF:-1,4 Fun TV
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/16289
+#EXTINF:-1,FilmBox Arthouse
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/16287
+#EXTINF:-1,Stopklatka TV
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/16284
+#EXTINF:-1,TV Republika
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/16283
+#EXTINF:-1,TVP Rozrywka
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/16282
+#EXTINF:-1,VOD 205
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/16279
+#EXTINF:-1,VOD 206
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/16278
+#EXTINF:-1,VOD 207
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/16277
+#EXTINF:-1,Zoom TV
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/16271
+#EXTINF:-1,Sport Klub Polska
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/16835
+#EXTINF:-1,TV Puls
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/16606
+#EXTINF:-1,ATM Rozrywka
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/17040
+#EXTINF:-1,Viasat Explore Polsat
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/18387
+#EXTINF:-1,Travel Channel
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/18389
+#EXTINF:-1,TV 6
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/18393
+#EXTINF:-1,TVP
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/18392
+#EXTINF:-1,W Polsce
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/19084
+#EXTINF:-1,Viasat Nature Polsat
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/18388
+#EXTINF:-1,NickToons Polska
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/22772
+#EXTINF:-1,Comedy Central Polska
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/22771
+#EXTINF:-1,Comedy Central Extra Polsat
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/22770
+#EXTINF:-1,Paramount Channel Polska
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/22769
+#EXTINF:-1,Nowa TV
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/22768
+#EXTINF:-1,Water Planet
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/22767
+#EXTINF:-1,TV Okazje
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/22766
+#EXTINF:-1,Disco Polo Music
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/22765
+#EXTINF:-1,Food Network
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/22764
+#EXTINF:-1,Viasat Nature Polsat
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/22763
+#EXTINF:-1,Polsat Sport News
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/22762
+#EXTINF:-1,Baby TV
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/22303
+#EXTINF:-1,Eska TV Extra
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11182
+#EXTINF:-1,VOD 208
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/23299
+#EXTINF:-1,BBC Brit Polska
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/23317
+#EXTINF:-1,BBC Lifestyle Polska
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/23318
+#EXTINF:-1,BBC CBeebies
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/23427
+#EXTINF:-1,Eska TV
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/11197
+#EXTINF:-1,Polsat Games
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/24376
+#EXTINF:-1,Polsat Rodzina
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/24377
+#EXTINF:-1,Discovery Channel
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/27048
+#EXTINF:-1,Investigation Discovery
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/27128
+#EXTINF:-1,FilmBox Extra
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/27555
+#EXTINF:-1,Red Carpet
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/27543
+#EXTINF:-1,Sundance TV
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/20422
+#EXTINF:-1,Golf Channel
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/27541
+#EXTINF:-1,Nuta TV
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/27540
+#EXTINF:-1,Canal+ Sport 3
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/28019
+#EXTINF:-1,Canal+ Sport 4
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/28020
+#EXTINF:-1,TVR
+http://clientportal.link:80/GZ6lWGeHzu/h5UiivSF95/15394
